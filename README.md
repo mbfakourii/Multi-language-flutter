@@ -1,5 +1,5 @@
 # Multi language flutter
-Multi language example in flutter with intl BLoc
+Multi language example in flutter with intl BLoC
 
 ## Screenshots
 <p align="center">
